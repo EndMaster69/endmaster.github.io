@@ -1,0 +1,158 @@
+1 All-Out Assault (TDM) 167
+2 Ebondeath, Dracolich (AFR) 100
+1 Emrakul, the Promised End (INR) 5
+1 Vraska, Betrayal's Sting (ONE) 337
+1 Capricious Hellraiser (ONE) 310
+1 Karlach, Fury of Avernus (CLB) 186
+1 Sol'Kanar the Tainted (DMU) 219
+1 Soul of Windgrace (DMU) 319
+1 The Tarrasque (AFR) 207
+1 The Deck of Many Things (AFR) 241
+1 Zariel, Archduke of Avernus (AFR) 172
+1 Acererak the Archlich (AFR) 87
+1 Minsc, Beloved Ranger (AFR) 227
+1 Tiamat (AFR) 235
+1 Majestic Genesis (CLB) 240
+2 Pact Weapon (CLB) 139
+1 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
+1 Atsushi, the Blazing Sky (TDC) 204
+1 Jetmir, Nexus of Revels (SNC) 193
+1 Jin-Gitaxias, Progress Tyrant (NEO) 59
+1 Behold the Beyond (SOI) 101
+1 Lord of the Forsaken (MID) 110
+1 Cemetery Gatekeeper (VOW) 148
+1 Cemetery Illuminator (VOW) 50
+1 Hallowed Haunting (VOW) 17
+1 Unesh, Criosphinx Sovereign (HOU) 52
+1 Cemetery Prowler (VOW) 191
+1 Lightning Runner (AER) 90
+1 Plate Spinning (UNF) 56
+1 Ancient Bronze Dragon (CLB) 369
+2 Icingdeath, Frost Tyrant (AFR) 287
+1 Grand Master of Flowers (AFR) 282
+1 Ellywick Tumblestrum (AFR) 286
+1 Flameskull (AFR) 378
+1 Demilich (AFR) 366
+1 Demilich (AFR) 366 *F*
+1 Xanathar, Guild Kingpin (AFR) 391
+1 Iymrith, Desert Doom (AFR) 290
+2 The Book of Vile Darkness (AFR) 374
+1 Inferno of the Star Mounts (AFR) 293
+1 Lolth, Spider Queen (AFR) 112
+1 Old Gnawbone (AFR) 197
+1 The Book of Exalted Deeds (AFR) 4
+1 Darkness (SPG) 124
+1 Frodo, Adventurous Hobbit (LTC) 82 *E*
+1 The Millennium Calendar (LCI) 388
+1 Ragavan, Nimble Pilferer (MUL) 21
+1 Shalai and Hallar (MOC) 10
+1 Kenrith, the Returned King (MUL) 4
+1 Enduring Angel // Angelic Enforcer (MID) 17
+1 Rhystic Study (FCA) 31
+1 Sam, Loyal Attendant (LTC) 7 *F*
+1 Saheeli, Filigree Master (BRO) 294
+1 Adagia, Windswept Bastion (EOE) 250
+1 Dust Bowl (EOS) 12
+1 Evendo, Waking Haven (EOE) 279
+1 Grove of the Burnwillows (EOS) 17
+1 Kavaron, Memorial World (EOE) 255
+1 Mirrorpool (EOS) 27
+3 Sliver Overlord (SPG) 128
+1 Susur Secundi, Void Altar (EOE) 259
+1 Weftwalking (EOE) 86
+1 Killer Cosplay (UNF) 145
+1 Deadpool, Trading Card (SLD) 1753
+1 Batterskull (PLST) NPH-130
+1 Yawgmoth, Thran Physician (FCA) 11
+2 Gwenom, Remorseless (SPM) 56
+1 Y'shtola, Night's Blessed (FIC) 207
+1 Behold the Sinister Six! (SPM) 221 *F*
+1 Magus of the Moon (SPG) 125
+1 Tezzeret, Cruel Captain (EOE) 2
+1 Eddie Brock // Venom, Lethal Protector (SPM) 55
+1 Shadow of the Enemy (LTR) 424
+1 The Soul Stone (SPM) 66
+1 Urza, Lord High Artificer (FCA) 5
+1 Y'shtola Rhul (FIN) 86
+1 Yuna, Hope of Spira (FIN) 250
+1 Peter Parker // Amazing Spider-Man (SPM) 10
+1 Lotus Field (EOS) 23
+1 Reflecting Pool (EOS) 36
+1 The Great Henge (CMM) 294
+1 Skitterbeam Battalion (BRO) 165
+2 Ancient Adamantoise (FIN) 172
+1 Bonehoard Dracosaur (LCI) 134
+1 Condemn (SPG) 74
+1 Twinflame Tyrant (FDN) 97
+1 Zimone, Paradox Sculptor (FDN) 126
+1 Absolute Virtue (FIN) 212
+1 Kefka, Court Mage // Kefka, Ruler of Ruin (FIN) 231
+1 Temporal Manipulation (SPG) 82
+1 Ajani, Caller of the Pride (FDN) 134
+1 Wistfulness (ECL) 296
+1 Curious Colossus (ECL) 298 *F*
+1 Ajani, Outland Chaperone (ECL) 284
+1 Loch Mare (ECL) 307 *F*
+1 Brainstorm (PZA) 4
+1 Buster Sword (FIN) 255
+1 Buster Sword (FIN) 255 *F*
+1 Goldvein Hydra (OTJ) 167
+1 Planetarium of Wan Shi Tong (TLA) 259
+2 Sami, Wildcat Captain (EOE) 226
+1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel (FIN) 317
+2 Teferi, Hero of Dominaria (MB2) 90
+1 Thoughtseize (OTP) 20
+2 Vial Smasher the Fierce (FCA) 59
+1 Susur Secundi, Void Altar (EOE) 259
+1 April O'Neil, Hacktivist (TMT) 282 *F*
+1 Glen Elendra Guardian (ECL) 383 *F*
+1 Meek Attack (ECL) 151
+1 Soul Immolation (ECL) 156
+1 Idyllic Tutor (SPG) 129
+1 Dina, Essence Brewer (SOC) 1
+2 Restoration Seminar (SOS) 30 *F*
+1 Emeritus of Abundance // Regrowth (SOS) 339 *F*
+1 Ral, Monsoon Mage // Ral, Leyline Prodigy (MH3) 247
+1 Uthros, Titanic Godcore (EOE) 260
+1 Professor Dellian Fel (SOS) 214 *F*
+1 Donatello, Mutant Mechanic (TMT) 36
+1 Broadcast Takeover (TMT) 86
+1 Silverquill, the Disputant (SOS) 226
+1 Prismari, the Inspiration (SOS) 212
+1 Lorehold, the Historian (SOS) 201
+1 Berserk (SOA) 50
+1 Emeritus of Conflict // Lightning Bolt (SOS) 113
+1 Alpharael, Stonechosen (EOE) 87
+2 Cosmogrand Zenith (EOE) 9
+1 Dawnsire, Sunstar Dreadnought (EOE) 238
+1 Inkmoth Nexus (EOS) 20
+1 Kavaron, Memorial World (EOE) 255
+1 Ouroboroid (EOE) 201
+2 Oltec Matterweaver (PW24) 12 *F*
+1 Devastating Onslaught (EOE) 308
+2 The Mind Stone (MSH) 21
+1 Deserted Temple (EOS) 56 *F*
+1 Extinction Event (MAR) 65 *F*
+1 Jennifer Walters // The Sensational She-Hulk (MSH) 18
+1 Ral Zarek, Guest Lecturer (SOS) 282
+1 Sami, Wildcat Captain (EOE) 301 *F*
+1 Tony Stark // The Invincible Iron Man (MSH) 80
+1 Emeritus of Abundance // Regrowth (SOS) 145
+2 Mathemagics (SOS) 58
+1 Vampiric Tutor (SOA) 165 *F*
+1 Opposition Agent (MAR) 19
+1 Mathemagics (SOS) 58 *F*
+2 Sol Ring (SOC) 427 *F*
+1 Talisman of Resilience (SOC) 432 *F*
+1 Ral Zarek, Guest Lecturer (SOS) 282 *F*
+1 Talisman of Hierarchy (SOC) 431 *F*
+1 Chronicle of Victory (ECL) 346
+1 Kavaron, Memorial World (EOE) 255 *F*
+2 Library of Leng (SPG) 158
+1 Mana Confluence (EOS) 25
+1 Mutavault (EOS) 28
+1 Plaza of Heroes (EOS) 33 *F*
+1 Railway Brawler (OTJ) 175
+1 Sandstorm Salvager (BIG) 19
+1 Stormscale Scion (TDM) 123
+1 Tezzeret, Cruel Captain (PEOE) 2p
